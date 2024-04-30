@@ -29,3 +29,9 @@ analyzes obtained dataset
 ### ufc_prediction.ipynb
 predicts the outcome of UFC fights
 
+### ufc_data.csv
+final dataset
+
+### BP_Adam_Zacpal.pdf
+bachelors thesis made using findings from this analysis 
+
