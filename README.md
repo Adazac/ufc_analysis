@@ -14,7 +14,7 @@ This paper presents a comprehensive approach to the analysis and prediction of s
 
 The main contribution of the work is seen by the author in particular in the accuracy of the prediction of one of the models for the match finishing method.
 
-### tapology_events.ipynb.
+### tapology_events.ipynb
 collects data about all UFC bouts with detailed info from events pages on tapology.com
 
 ### sherdog_bouts.ipynb 
