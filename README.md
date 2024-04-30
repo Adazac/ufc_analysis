@@ -33,5 +33,5 @@ predicts the outcome of UFC fights
 final dataset
 
 ### BP_Adam_Zacpal.pdf
-bachelors thesis in czech language made using findings from this analysis 
+bachelors thesis made in czech language using findings from this analysis 
 
