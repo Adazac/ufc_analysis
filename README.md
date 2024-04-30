@@ -13,3 +13,14 @@ Selected machine learning models and an Elo model were created to predict match 
 This paper presents a comprehensive approach to the analysis and prediction of sporting outcomes using modern statistical techniques and python programming language libraries. 
 
 The main contribution of the work is seen by the author in particular in the accuracy of the prediction of one of the models for the match finishing method.
+
+### "tapology_events.ipynb." collects data about all UFC bouts with detailed info from events pages on tapology.com
+
+### "sherdog_bouts.ipynb" collects the full record of all fighters from a list from sherdog.com
+
+### "creating_dataset.ipynb" combines the two previous datasets into one including data cleaning, wrangling and transformation 
+
+### "ufc_analysis.ipynb" analyzes obtained dataset
+
+### "ufc_prediction.ipynb" predicts the outcome of UFC fights
+
