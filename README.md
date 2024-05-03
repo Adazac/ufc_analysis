@@ -17,7 +17,7 @@ The main contribution of the work is seen by the author in particular in the acc
 ### tapology_events.ipynb
 collects data about all UFC bouts with detailed info from events pages on tapology.com
 
-### sherdog_bouts.ipynb 
+### sherdog_records.ipynb 
 collects the full record of all fighters from a list from sherdog.com
 
 ### creating_dataset.ipynb
