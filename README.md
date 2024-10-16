@@ -35,3 +35,5 @@ final dataset
 ### BP_Adam_Zacpal.pdf
 bachelors thesis made in czech language using findings from this analysis 
 
+### Infogram I made in addition to my project
+https://infogram.com/finalprojectzacpal-1hxj48mp9j1zq2v?live
